@@ -1,0 +1,20 @@
+{
+  "name": "web-e2e-wdio",
+  "version": "1.0.0",
+  "description": "This repository contains end-to-end (E2E) tests for a web application using WebdriverIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "leandjb@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@wdio/allure-reporter": "^9.4.4",
+    "@wdio/cli": "^9.4.5",
+    "@wdio/local-runner": "^9.4.5",
+    "@wdio/mocha-framework": "^9.4.4",
+    "@wdio/spec-reporter": "^9.4.4",
+    "wdio-video-reporter": "^6.1.1"
+  }
+}

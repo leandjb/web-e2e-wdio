@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#searchbox_input\"}\n  (Session info: chrome=131.0.6778.204)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF7167BFB05+28789]\n\t(No symbol) [0x00007FF7167286E0]\n\t(No symbol) [0x00007FF7165C592A]\n\t(No symbol) [0x00007FF71661930E]\n\t(No symbol) [0x00007FF7166195FC]\n\t(No symbol) [0x00007FF7166628A7]\n\t(No symbol) [0x00007FF71663F47F]\n\t(No symbol) [0x00007FF71665F654]\n\t(No symbol) [0x00007FF71663F1E3]\n\t(No symbol) [0x00007FF71660A938]\n\t(No symbol) [0x00007FF71660BAA1]\n\tGetHandleVerifier [0x00007FF716AF933D+3410093]\n\tGetHandleVerifier [0x00007FF716B0E7DD+3497293]\n\tGetHandleVerifier [0x00007FF716B02A73+3448803]\n\tGetHandleVerifier [0x00007FF716887BBB+848171]\n\t(No symbol) [0x00007FF716733C3F]\n\t(No symbol) [0x00007FF71672F6E4]\n\t(No symbol) [0x00007FF71672F87D]\n\t(No symbol) [0x00007FF71671ED49]\n\tBaseThreadInitThunk [0x00007FF91CB4259D+29]\n\tRtlUserThreadStart [0x00007FF91DC2AF38+40]\n"
+}
